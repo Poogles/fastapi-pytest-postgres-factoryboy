@@ -1,0 +1,10 @@
+pytest
+fastapi
+pytest-postgresql
+requests
+sqlalchemy
+pydantic
+factory-boy
+faker
+black
+isort
